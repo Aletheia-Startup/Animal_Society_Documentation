@@ -13,7 +13,9 @@
 - [👥 Stakeholder Principali](#gli-stackholder)
 - [🛠️ Tecnologie Utilizzate](#tecnologie-utilizzate)
 - [🧪 Funzionalità Principali](#funzionalità-principali)
-- [🤝 Come Contribuire](#come-contribuire)
+- [📬 Contatti](#contatti)
+- [👥 Collaboratori](#collaboratori)
+
   
 ---
 
@@ -66,10 +68,10 @@ La Web App mira a migliorare l’intero processo di gestione clinica veterinaria
 - Node.js
 - Tailwind CSS (Stilizzazione)
   
-### Bakcend 
+### Backend 
 - Python (Backend)
 - FastAPI (Backend)
-- Postgress SQL (Database)
+- PostgreSQL (Database)
 - JWT (Autenticazione)
 
 
@@ -83,7 +85,7 @@ La Web App mira a migliorare l’intero processo di gestione clinica veterinaria
 - ✅ Integrazione con API esterne
 
 
-## 🤝 Come Contribuire
+## 🤝 Contatti
 
 Hai un'idea o vuoi migliorare il progetto? Contattaci qui:
 
@@ -96,6 +98,6 @@ Hai un'idea o vuoi migliorare il progetto? Contattaci qui:
 
 - [@Lorenzo Calabrese](https://github.com/LorenzoCalabrese03) – Frontend & Project Lead  
 - [@Francesco Conforti](https://github.com/checcoconf) – Backend Developer  
-- [@Giusepper Pio De Biase](https://github.com/GiuseppePioDeBiase) – UX/UI Design & Frontend
+- [@Giuseppe Pio De Biase](https://github.com/GiuseppePioDeBiase) – UX/UI Design & Frontend
 - [@Alexandru Zaharia](https://github.com/darkmodeftw) – Backend Developer
 
