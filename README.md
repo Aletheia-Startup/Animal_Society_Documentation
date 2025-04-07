@@ -1,4 +1,4 @@
-# 🐾 Animal Society      | <a href="./README.md"><img src="https://www.pikpng.com/pngl/m/85-850967_welcome-in-saint-brieuc-bay-clipart.png" alt="UK" height="30" width="30"></a> |
+# 🐾 Animal Society      | <a href="./README_IT.md"><img src="https://www.pikpng.com/pngl/m/85-850967_welcome-in-saint-brieuc-bay-clipart.png" alt="UK" height="30" width="30"></a> |
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Build with](https://img.shields.io/badge/frontend-Next.js_%2B_Node.js-blue)
 ![Backend](https://img.shields.io/badge/backend-FastAPI_%2B_Python-yellow)
