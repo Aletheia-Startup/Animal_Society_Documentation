@@ -1,5 +1,4 @@
-# 🐾 Animal Society
-
+# 🐾 Animal Society | <a href="./README.md"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pikpng.com%2Fpngl%2Fm%2F62-627341_italian-flag-icon-png-flag-of-italy-circle.png&f=1&nofb=1&ipt=ad25eb8286d42fb20bbb70ee1355dd7f99d32b19acc932eb57d7d437ff3ddadb&ipo=images" alt="Italy" height="30" width="30"></a> |
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Build with](https://img.shields.io/badge/frontend-Next.js_%2B_Node.js-blue)
 ![Backend](https://img.shields.io/badge/backend-FastAPI_%2B_Python-yellow)
