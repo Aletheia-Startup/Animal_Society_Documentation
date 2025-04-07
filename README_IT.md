@@ -62,16 +62,16 @@ La Web App mira a migliorare l’intero processo di gestione clinica veterinaria
 ## 🛠️ Tecnologie Utilizzate
 
 ### Frontend
-- React (Frontend)
-- Next.js (Frontend)
+- React
+- Next.js 
 - Node.js
-- Tailwind CSS (Stilizzazione)
+- Tailwind CSS 
   
 ### Backend 
-- Python (Backend)
-- FastAPI (Backend)
-- PostgreSQL (Database)
-- JWT (Autenticazione)
+- Python 
+- FastAPI 
+- PostgreSQL 
+- JWT 
 
 
 ---
